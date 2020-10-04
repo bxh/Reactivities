@@ -1,2 +1,2 @@
 # Reactivities
-Repository for Reactivities training course using .Net Core, React (with Typescript), Mobx, MediatR.
+Repository for Reactivities training course using .Net Core, React (with Typescript), Mobx, MediatR, and SignalR.
